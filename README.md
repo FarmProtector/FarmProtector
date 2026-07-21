@@ -23,7 +23,6 @@ Currently co-owning a HITRUST CSF certification effort and studying for CompTIA 
 
 ## 🚨 Threat Hunting & Security Operations
 - **[Threat Hunt & Incident Report — NPT-WS01](https://github.com/FarmProtector/azure-detection-portfolio/tree/main/01-threat-hunt-ir)** — Full intrusion investigation in Microsoft Defender Advanced Hunting (KQL); NIST SP 800-61 incident report with ATT&CK mapping and containment plan
-- **[Sentinel Risk-Tiered Geo Map](https://github.com/FarmProtector/azure-detection-portfolio/tree/main/02-sentinel-geomap)** — Workbook geolocating and risk-scoring Azure control-plane changes by caller IP
 - **Threat Hunting Scenario: Tor Browser Usage** — Coming soon
 - **Threat Hunting Incident: Public-Facing IP Detection** — Coming soon
 
@@ -44,7 +43,7 @@ I write about what I'm learning at **[sahilk.io/blog](https://sahilk.io/blog)**.
 
 ## Connect
 
-[<img align="left" alt="Sahil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[linkedin]: https://www.linkedin.com/in/sahil-k-85a0b2200/
 [<img align="left" alt="Sahil | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />][portfolio]
 
 [linkedin]: [https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/sahil-k-85a0b2200/)
