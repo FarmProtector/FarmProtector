@@ -22,11 +22,10 @@ Currently co-owning a HITRUST CSF certification effort and studying for CompTIA 
 - **Programmatic Vulnerability Remediations** — Coming soon
 
 ## 🚨 Threat Hunting & Security Operations
-*In progress*
-
+- **[Threat Hunt & Incident Report — NPT-WS01](https://github.com/FarmProtector/azure-detection-portfolio/tree/main/01-threat-hunt-ir)** — Full intrusion investigation in Microsoft Defender Advanced Hunting (KQL); NIST SP 800-61 incident report with ATT&CK mapping and containment plan
+- **[Sentinel Risk-Tiered Geo Map](https://github.com/FarmProtector/azure-detection-portfolio/tree/main/02-sentinel-geomap)** — Workbook geolocating and risk-scoring Azure control-plane changes by caller IP
 - **Threat Hunting Scenario: Tor Browser Usage** — Coming soon
 - **Threat Hunting Incident: Public-Facing IP Detection** — Coming soon
-- **Building KQL Maps for Data Visualization and Trend Spotting** — Coming soon
 
 ## 📝 Writing
 
