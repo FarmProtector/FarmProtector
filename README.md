@@ -18,12 +18,11 @@ Currently co-owning a HITRUST CSF certification effort and studying for CompTIA 
 ## ⚠️ Vulnerability Management Projects
 *In progress*
 
-- **Vulnerability Management Program Implementation** — Coming soon
-- **Programmatic Vulnerability Remediations** — Coming soon
+- **Vulnerability Management Program Implementation** — In progress
+- **Programmatic Vulnerability Remediations** — In progress
 
 ## 🚨 Threat Hunting & Security Operations
 - **[Threat Hunt & Incident Report — NPT-WS01](https://github.com/FarmProtector/azure-detection-portfolio/tree/main/01-threat-hunt-ir)** — Full intrusion investigation in Microsoft Defender Advanced Hunting (KQL); NIST SP 800-61 incident report with ATT&CK mapping and containment plan
-- **Threat Hunting Scenario: Tor Browser Usage** — Coming soon
 - **Threat Hunting Incident: Public-Facing IP Detection** — Coming soon
 
 ## 📝 Writing
