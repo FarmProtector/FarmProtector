@@ -2,7 +2,7 @@
 
 AWS Certified Security Specialist with 12+ years in healthcare IT, now focused on cloud security, vulnerability management, and compliance in HIPAA-regulated environments. I work hands-on with AWS security tooling, firewall administration, and identity management, and I'm actively building skills in Microsoft Sentinel, Defender, and threat hunting.
 
-Currently co-owning a HITRUST CSF certification effort and studying for CompTIA CySA+.
+Currently co-owning a HITRUST CSF certification effort and studying for CompTIA CySA+ and Microsoft SC-200
 
 **Core skills:** AWS (WAF, GuardDuty, Security Hub, Macie, Inspector, IAM) · Palo Alto Firewall · Okta · Vulnerability Management · KQL · Microsoft Sentinel & Defender · HIPAA / HITRUST Compliance
 
