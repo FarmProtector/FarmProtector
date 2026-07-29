@@ -26,7 +26,8 @@ Currently co-owning a HITRUST CSF certification effort and studying for CompTIA 
 - **[Sentinel Risk-Tiered Geo Map](https://github.com/FarmProtector/azure-detection-portfolio/tree/main/02-sentinel-geomap)** — Microsoft Sentinel workbook that geolocates and risk-scores Azure control-plane changes by caller IP
 - **[Sentinel Analytics Rule & Automated Response](https://github.com/FarmProtector/azure-detection-portfolio/tree/main/03-sentinel-analytics-rule)** — Detection logic converted into a live rule with entity mapping and MITRE ATT&CK technique mapping
 - **[Zero Trust / Conditional Access Policy Design](https://github.com/FarmProtector/azure-detection-portfolio/tree/main/04-zero-trust-conditional-access)** — Five Conditional Access policies and an Intune compliance policy, validated with Entra's "What If" tool and exported via Microsoft Graph PowerShell
-
+## 🧪 Other Projects
+- **[AI Security Scanner](https://github.com/FarmProtector/ai-security)** — CLI tool that scans Python files for vulnerabilities using the Gemini API, with color-coded severity output
 ## 📝 Writing
 
 I write about what I'm learning at **[sahilk.io/blog](https://sahilk.io/blog)**.
