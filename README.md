@@ -39,6 +39,7 @@ I write about what I'm learning at **[sahilk.io/blog](https://sahilk.io/blog)**.
 - AWS Certified Security – Specialty
 - AWS Certified Solutions Architect – Associate
 - CompTIA Security+
+- CompTIA CySA+
 - ISC2 Certified in Cybersecurity
 
 <hr/>
