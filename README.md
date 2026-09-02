@@ -2,18 +2,15 @@
 
 AWS Certified Security Specialist with 12+ years in healthcare IT, now focused on cloud security, vulnerability management, and compliance in HIPAA-regulated environments. I work hands-on with AWS security tooling, firewall administration, and identity management, and I'm actively building skills in Microsoft Sentinel, Defender, and threat hunting.
 
-Currently co-owning a HITRUST CSF certification effort and studying for CompTIA CySA+ and Microsoft SC-200
-
 **Core skills:** AWS (WAF, GuardDuty, Security Hub, Macie, Inspector, IAM) · Palo Alto Firewall · Okta · Vulnerability Management · KQL · Microsoft Sentinel & Defender · HIPAA / HITRUST Compliance
 
 ---
-
 ## ☁️ AWS Security & Infrastructure Projects
-
 - **[Website Delivery with CloudFront](https://sahilk.io/projects/aws-networks-cloudfront)** — Secure static site delivery using CloudFront, S3, and origin access controls
 - **[Building a Virtual Private Cloud in AWS](https://sahilk.io/projects/aws-networks-vpc)** — Multi-tier VPC architecture with subnet segmentation and traffic controls
 - **[Cloud Security with AWS IAM](https://sahilk.io/projects/aws-security-iam)** — Least-privilege IAM policies, roles, and access boundaries
 - **[Encrypting Data with AWS KMS](https://sahilk.io/projects/aws-security-kms)** — Customer-managed KMS keys, encryption at rest/in transit, key rotation
+- **[Secrets Manager + Lambda Secret Retrieval](https://github.com/FarmProtector/aws-projects/tree/main/01-secrets-manager-lambda)** — Serverless secret retrieval using the AWS Parameters and Secrets Lambda Extension, with local caching verified via CloudWatch log timing
 
 ## ⚠️ Vulnerability Management Projects
 *In progress*
@@ -46,7 +43,8 @@ I write about what I'm learning at **[sahilk.io/blog](https://sahilk.io/blog)**.
 
 ## Connect
 
+[<img align="left" alt="Sahil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sahil | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />][portfolio]
 
-[linkedin]: [https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/sahil-k-85a0b2200/)
+[linkedin]: https://www.linkedin.com/in/sahil-k-85a0b2200/
 [portfolio]: https://sahilk.io
