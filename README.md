@@ -72,6 +72,7 @@ Designed five Conditional Access policies and an Intune compliance policy, valid
 - **[Cloud Security with AWS IAM](https://sahilk.io/projects/aws-security-iam)**: Least-privilege IAM policies, roles, and access boundaries
 - **[Encrypting Data with AWS KMS](https://sahilk.io/projects/aws-security-kms)**: Customer-managed KMS keys, encryption at rest and in transit, key rotation
 - **[Secrets Manager + Lambda Secret Retrieval](https://github.com/FarmProtector/aws-projects/tree/main/01-secrets-manager-lambda)**: Serverless secret retrieval using the AWS Parameters and Secrets Lambda Extension, with local caching verified via CloudWatch log timing
+- **[Threat Detection with GuardDuty](https://github.com/FarmProtector/aws-projects/tree/main/02-aws-guardduty-threat-detection)**: Attacked an intentionally vulnerable web app with SQL and command injection, exfiltrated EC2 credentials to access S3, then investigated the resulting GuardDuty findings and tested Malware Protection with an EICAR file
 
 ## Other Projects
 
