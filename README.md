@@ -13,7 +13,6 @@ AWS Certified Security Specialist with 12+ years in healthcare IT, now focused o
 - **[Secrets Manager + Lambda Secret Retrieval](https://github.com/FarmProtector/aws-projects/tree/main/01-secrets-manager-lambda)** — Serverless secret retrieval using the AWS Parameters and Secrets Lambda Extension, with local caching verified via CloudWatch log timing
 
 ## ⚠️ Vulnerability Management Projects
-*In progress*
 
 - **[Vulnerability Management Program](https://github.com/FarmProtector/vulnerability-management-program)** - Built a vulnerability management program from policy to remediation using Tenable, Azure, and PowerShell. Ran credentialed scans, prioritized findings by risk, remediated through change management, and verified each fix with a rescan. Reduced findings from 27 to 5 (81%) and documented the remaining risk as formal exceptions.
 
