@@ -15,8 +15,7 @@ AWS Certified Security Specialist with 12+ years in healthcare IT, now focused o
 ## ⚠️ Vulnerability Management Projects
 *In progress*
 
-- **Vulnerability Management Program Implementation** 
-- **Programmatic Vulnerability Remediations**
+- **[Vulnerability Management Program](https://github.com/FarmProtector/vulnerability-management-program)** - Built a vulnerability management program from policy to remediation using Tenable, Azure, and PowerShell. Ran credentialed scans, prioritized findings by risk, remediated through change management, and verified each fix with a rescan. Reduced findings from 27 to 5 (81%) and documented the remaining risk as formal exceptions.
 
 ## 🚨 Threat Hunting & Security Operations
 - **[Threat Hunt & Incident Report — NPT-WS01](https://github.com/FarmProtector/azure-detection-portfolio/tree/main/01-threat-hunt-ir)** — Full intrusion investigation in Microsoft Defender Advanced Hunting (KQL); NIST SP 800-61 incident report with ATT&CK mapping and containment plan
